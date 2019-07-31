@@ -8,3 +8,7 @@ Recording my learning progress
 ## 类
 + 类的基本概念
 + 类的使用方法
+## 爬虫
++ 使用正则表达式
++ 利用第三方库BeautifulSoup
++ 利用Requests
