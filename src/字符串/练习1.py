@@ -1,7 +1,7 @@
 """
 @author:Clay_Guo
 @time:2020/2/2 12:32
-@filename:demo2.py
+@filename:练习1.py
 """
 # f-string使用练习
 
