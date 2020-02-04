@@ -13,4 +13,4 @@ print(list(dict.values()))  # 输出包含字典中所有值的列表
 print(len(dict))
 
 dict1 = dict.copy()
-print('dict1=',dict1)
+print('dict1=', dict1)
